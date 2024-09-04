@@ -1,0 +1,8 @@
+alibi_detect
+boto3
+datasets
+torch
+torchvision
+torchdrift
+transformers
+scikit_learn

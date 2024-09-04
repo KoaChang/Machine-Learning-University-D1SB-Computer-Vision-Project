@@ -1,0 +1,16 @@
+{
+    "model_file_name": "model-best.pth",
+    "model_id": "chair-model-1",
+    "params": {
+        "classes": [
+            "angled-front",
+            "lifestyle",
+            "dimensions"
+        ],
+        "model_type": "resnet50",
+        "multi_label": false,
+        "multi_label_pred_thresholds": 0.5,
+        "multi_multi_class": false
+    },
+    "prediction_class": "PyTorchPredictor"
+}
